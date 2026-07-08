@@ -1,4 +1,3 @@
-# Hola-wokwi.ino
 AO-Bio-Pulse-Rigation
 ​Motor de Optimización Hídrica de Alta Precisión
 ​HydroLogic Core es un sistema de automatización diseñado para maximizar la eficiencia en la gestión de recursos hídricos. Basado en una lógica de optimización (80/20), este sistema permite reducir el desperdicio de agua hasta en un 50%, garantizando simultáneamente un incremento en el rendimiento de producción.
